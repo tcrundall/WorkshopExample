@@ -14,6 +14,7 @@ A small github repo used as an example for the coding workshop!
 To use this framework you will need to:
 
 
+
 1. Replace my email (tim.crundall@gmail.com) with your own.
 2. Replace all instances of tcrundall & tcrundall, with your own username (case insensitive replace).
 3. Replace my name (Timothy Crundall) with yours (used in the doc and license).
