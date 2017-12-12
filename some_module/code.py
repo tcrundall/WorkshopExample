@@ -8,6 +8,7 @@ def extract_sentence_containing_word(paragraph, word):
     return selected
 
 
+
 def integrate_trapz(xs, ys):
     """ Document and test me"""
     widths = np.diff(xs)
